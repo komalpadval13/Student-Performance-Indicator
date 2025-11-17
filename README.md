@@ -32,30 +32,13 @@ It includes a full ML pipeline, model tuning, reusable prediction architecture, 
 
 ## 🛠️ Tech Stack
 
-### **Machine Learning**
-- Python  
-- NumPy  
-- Pandas  
-- Scikit-Learn  
-- XGBoost  
-- CatBoost  
-- GridSearchCV  
-- Pickle / Dill  
+| **Category**           | **Technologies** |
+|------------------------|------------------|
+| **Machine Learning**   | Python · NumPy · Pandas · Scikit-Learn · XGBoost · CatBoost · GridSearchCV · Pickle/Dill |
+| **Backend**            | Flask · Jinja2 Templates |
+| **Frontend**           | HTML5 · CSS3 · Bootstrap 5 |
+| **Development Tools**  | Logging · Virtual Environments · Modular OOP Architecture · Custom Exception Handling |
 
-### **Backend**
-- Flask  
-- Jinja2 Templates  
-
-### **Frontend**
-- HTML5  
-- CSS3  
-- Bootstrap 5  
-
-### **Development Tools**
-- Logging  
-- Virtual Environments  
-- Modular OOP Architecture  
-- Custom Exception Handling  
 
 ---
 
