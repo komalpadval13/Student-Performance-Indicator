@@ -1,11 +1,11 @@
-# 📘 Student Performance Indicator
+#  Student Performance Indicator
 
 A clean, production-ready **Machine Learning + Flask Web App** that predicts a student’s **Math Score** using demographic, socioeconomic, and academic inputs.  
 This project demonstrates a complete ML workflow — from data ingestion to deployment — wrapped in a modern UI.
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 This project predicts a student’s math performance using key factors:
 
 - Gender  
@@ -20,7 +20,7 @@ It includes a full ML pipeline, model tuning, reusable prediction architecture, 
 
 ---
 
-## 🧠 Features
+##  Features
 - End-to-end machine learning pipeline  
 - Automated preprocessing & feature engineering  
 - Multiple model training with GridSearchCV  
@@ -30,7 +30,7 @@ It includes a full ML pipeline, model tuning, reusable prediction architecture, 
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | **Category**           | **Technologies** |
 |------------------------|------------------|
@@ -43,7 +43,7 @@ It includes a full ML pipeline, model tuning, reusable prediction architecture, 
 ---
 
 
-## 📁 Project Structure
+##  Project Structure
 
             Student-Performance-Indicator/
             │
@@ -66,24 +66,24 @@ It includes a full ML pipeline, model tuning, reusable prediction architecture, 
 
 ---
 
-## ⚙️ Installation & Usage
+##  Installation & Usage
 
-###  1️⃣ Clone the repository**
+###  1. Clone the repository**
             git clone https://github.com/komalpadval13/Student-Performance-Indicator
             cd Student-Performance-Indicator
 
-###  2️⃣ Create a virtual environment
+###  2. Create a virtual environment
             python -m venv venv
 
-###  3️⃣ Activate the environment
+###  3. Activate the environment
             venv\Scripts\activate
 
-###  4️⃣ Install dependencies
+###  4. Install dependencies
             pip install -r requirements.txt
 
-###  5️⃣ Run the Flask app
+###  5. Run the Flask app
             python app.py
 
-###  6️⃣ Open in browser
+###  6. Open in browser
             http://127.0.0.1:5000/
             
